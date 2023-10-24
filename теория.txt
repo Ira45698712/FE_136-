@@ -1,0 +1,21 @@
+git init - инициализирует новый репозиторий Git в текущей папке
+
+Источник: https://dan-it.com.ua/blog/instrukcija-git-dlja-novachkiv-shho-ce-take-jak-vin-pracjuie-ta-jaki-ie-osnovni-komandi/
+© Dan-it.com.ua
+git remote add origin 
+$ git remote - узнать 
+
+
+
+
+$ git remote add  origin https://github.com/Ira45698712/FE_136-.git - добавление ссылки на репозиторий
+$ git remote get-url origin - узнать к какому репозиторию
+$ git remote set-url origin https://github.com/Ira45698712/FE_136-.git - изменение ссылки на репозиторий
+
+$ git add ./index.html (добавление в git)
+
+$ git status -  о ветке, о коммите, об изменениях
+
+$ git commit -m 'first commit'
+
+$ git push / $ git push master (если много веток, то с именем ветки)
