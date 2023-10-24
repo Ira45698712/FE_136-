@@ -1,6 +1,6 @@
 # домашние работы группы FE 136
 
-```
+``` html
 <!DOCTYPE html>
 <html lang="en">
 <head>
